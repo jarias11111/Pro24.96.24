@@ -1,0 +1,137 @@
+[
+    {
+        "nombre_completo": "Juan Carlos Perez Lopez",
+        "fecha_nacimiento": "10 de mayo de 1980",
+        "saldo": 100.00
+    },
+    {
+        "nombre_completo": "Maria Garcia Diaz",
+        "fecha_nacimiento": "25 de agosto de 1985",
+        "saldo": 150.75
+    },
+    {
+        "nombre_completo": "Carlos Sanchez Fernandez",
+        "fecha_nacimiento": "1 de diciembre de 1978",
+        "saldo": 200.00
+    },
+    {
+        "nombre_completo": "Ana Lopez Martinez",
+        "fecha_nacimiento": "12 de marzo de 1992",
+        "saldo": 250.40
+    },
+    {
+        "nombre_completo": "Pedro Torres Rodriguez",
+        "fecha_nacimiento": "19 de julio de 1988",
+        "saldo": 300.25
+    },
+    {
+        "nombre_completo": "Luis Gomez Santos",
+        "fecha_nacimiento": "23 de noviembre de 1995",
+        "saldo": 180.60
+    },
+    {
+        "nombre_completo": "Elena Morales Ruiz",
+        "fecha_nacimiento": "5 de febrero de 1983",
+        "saldo": 220.15
+    },
+    {
+        "nombre_completo": "Rosa Fernandez Gomez",
+        "fecha_nacimiento": "30 de agosto de 1999",
+        "saldo": 90.35
+    },
+    {
+        "nombre_completo": "Miguel Herrera Lopez",
+        "fecha_nacimiento": "17 de enero de 1975",
+        "saldo": 310.50
+    },
+    {
+        "nombre_completo": "Laura Diaz Castro",
+        "fecha_nacimiento": "9 de junio de 1987",
+        "saldo": 130.75
+    },
+    {
+        "nombre_completo": "Juan Perez Lopez",
+        "fecha_nacimiento": "10 de mayo de 1980",
+        "saldo": 100.00
+    },
+    {
+        "nombre_completo": "Maria Garcia Diaz",
+        "fecha_nacimiento": "25 de agosto de 1985",
+        "saldo": 150.75
+    },
+    {
+        "nombre_completo": "Carlos Sanchez Fernandez",
+        "fecha_nacimiento": "1 de diciembre de 1978",
+        "saldo": 200.00
+    },
+    {
+        "nombre_completo": "Ana Lopez Martinez",
+        "fecha_nacimiento": "12 de marzo de 1992",
+        "saldo": 250.40
+    },
+    {
+        "nombre_completo": "Pedro Torres Rodriguez",
+        "fecha_nacimiento": "19 de julio de 1988",
+        "saldo": 300.25
+    },
+    {
+        "nombre_completo": "Luis Gomez Santos",
+        "fecha_nacimiento": "23 de noviembre de 1995",
+        "saldo": 180.60
+    },
+    {
+        "nombre_completo": "Elena Morales Ruiz",
+        "fecha_nacimiento": "5 de febrero de 1983",
+        "saldo": 220.15
+    },
+    {
+        "nombre_completo": "Rosa Fernandez Gomez",
+        "fecha_nacimiento": "30 de agosto de 1999",
+        "saldo": 90.35
+    },
+    {
+        "nombre_completo": "Miguel Herrera Lopez",
+        "fecha_nacimiento": "17 de enero de 1975",
+        "saldo": 310.50
+    },
+    {
+        "nombre_completo": "Laura Diaz Castro",
+        "fecha_nacimiento": "9 de junio de 1987",
+        "saldo": 130.75
+    },
+    {
+        "nombre_completo": "Juan Perez Lopez",
+        "fecha_nacimiento": "10 de mayo de 1980",
+        "saldo": 100.00
+    },
+    {
+        "nombre_completo": "Maria Garcia Diaz",
+        "fecha_nacimiento": "25 de agosto de 1985",
+        "saldo": 150.75
+    },
+    {
+        "nombre_completo": "Carlos Sanchez Fernandez",
+        "fecha_nacimiento": "1 de diciembre de 1978",
+        "saldo": 200.00
+    },
+    {
+        "nombre_completo": "Ana Lopez Martinez",
+        "fecha_nacimiento": "12 de marzo de 1992",
+        "saldo": 250.40
+    },
+    {
+        "nombre_completo": "Pedro Torres Rodriguez",
+        "fecha_nacimiento": "19 de julio de 1988",
+        "saldo": 300.25
+    },
+    {
+        "nombre_completo": "Luis Gomez Santos",
+        "fecha_nacimiento": "23 de noviembre de 1995",
+        "saldo": 180.60
+    },
+    {
+        "nombre_completo": "Elena Morales Ruiz",
+        "fecha_nacimiento": "5 de febrero de 1983",
+        "saldo": 220.15
+    }
+]
